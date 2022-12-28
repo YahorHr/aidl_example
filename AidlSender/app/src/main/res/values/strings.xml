@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AidlSender</string>
+    <string name="notification_title">Aidl foreground service started</string>
+</resources>
